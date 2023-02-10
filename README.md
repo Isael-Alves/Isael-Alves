@@ -35,8 +35,7 @@
    <img align="center" alt="Isael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Isael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
-   
-   
+     
 
   ### Studying in this moment:
   <div style="display: inline_block" align="left">
@@ -47,16 +46,6 @@
   </div>
 
 ###
-
-<div align="center"><br>
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isael-Alves&repo=projeto19-drivenpass&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caio-Coldebella&repo=linkr-back&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isael-Alves&repo=projeto16-shortly&show_icons=true" alt="My github stats">
-</div>
-
-
-###
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
