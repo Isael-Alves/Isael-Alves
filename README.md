@@ -3,10 +3,10 @@
   </h1>
 
   Welcome to my profile! <br> 
-  I am 23 years old, I'm a junior software engineer from Brazil, and I've been in the world of programming for about 1 year, but I've been studying a lot and trying to grow a lot more. <br>
+  I'm 23 years old, I'm a junior software engineer from Brazil, and I've been in the world of programming for about 1 year, but I've been studying a lot and trying to grow a lot more. <br>
+  My main goal today is always to evolve. <br>
+  **Today's junior developer is tomorrow's senior developer**
   
-  
-<br>
 <br>
  
 <div style="display= block" align="center">
